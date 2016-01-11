@@ -1,0 +1,1 @@
+A homework project written in Java that fetches and parses XML data from the norwegian weather site yr.no and then displays the given temperature. The purpose of the project was to learn basic socket programming, file handling and XML.
