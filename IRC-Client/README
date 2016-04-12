@@ -1,3 +1,3 @@
-This is a client for IRC that I wrote when I was practising C/C++,TCP/IP and socket programming in my early teens.
-When I first wrote the client it was intented to be run from the windows command line. But a couple of years later in a high school programming
-class I added this very simple GUI since at this point I had never created a program with a GUI.
+This is a client for the IRC protocol that I wrote when I was practising C/C++,TCP/IP and socket programming in my early teens.
+It was originally intended to be run solely from the windows command line. But a couple of years later in a high school programming
+class I added a very simple GUI.
